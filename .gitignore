@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+*.sqlite3
+
+# Jupyter / VSCode / Mac
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
