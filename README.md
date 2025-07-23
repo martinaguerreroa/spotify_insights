@@ -25,7 +25,7 @@ You’ve got two options:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/spotify_insights.git
+git clone https://github.com/martinaguerreroa/spotify_insights.git
 cd spotify_insights
 
 # Set up environment
